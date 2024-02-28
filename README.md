@@ -46,11 +46,13 @@ This is a simple command-line implementation of the popular Jeopardy game. It al
    
 
 ## Usage
-1. Run the compiled executable:
-   ```bash
-   ./bin/jeopardy
-   ```
-2. Follow the on-screen prompts to enter player names and answer questions.
+
+- Enter the names of players.
+- Choose categories and question values.
+- Answer questions correctly to earn points.
+- The player with the highest score wins.
+
+
 
 
 
